@@ -1,0 +1,8 @@
+
+body { background-color: lightgray; } /* Just for easier viewing */
+.loremipsum {
+  font-size: 15px;
+  background: -webkit-linear-gradient(0, mediumblue 33.3%, white 33.3%, white 66.6%, red 66.6%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
